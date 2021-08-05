@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @longdangduy
+Hi guys, 
+
+I am Long!
+I am working on projects for backend services 
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
- Hi guys,
- 
- Welcome to my channel :D 
+
+I hope you'll enjoy my sharing and teach me your idea !!!
 
 
 <!---
