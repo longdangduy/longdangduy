@@ -9,8 +9,7 @@ I am Long! I am working on projects for backend services in Loyalty, eCommerce s
 I use GitHub to share my reading, learning and experience.
 And I hope you'll enjoy my sharing and teach me your idea !!!
 
-Have a good day ^^
-
+✨ Have a good day ^^ 
 
 <!---
 longdangduy/longdangduy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
