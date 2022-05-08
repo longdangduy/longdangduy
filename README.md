@@ -1,6 +1,6 @@
 Hi guys,
 
-I am Long! I am working on projects for backend services in Loyalty, eCommerce system
+I am Long! I am working on projects for backend services in eCommerce, Fintech and Loyalty system
 
 - 👀 I’m interested in ... coding, design, problem solving and new technologies
 - 🌱 I’m currently learning ... AWS 
